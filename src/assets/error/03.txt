@@ -1,3 +1,0 @@
-src/assets/error/
-src/assets/error/
-src/assets/error/
